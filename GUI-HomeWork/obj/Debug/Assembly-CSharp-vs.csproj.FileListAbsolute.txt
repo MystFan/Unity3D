@@ -1,0 +1,11 @@
+D:\SoftUni\GUI-HomeWork\Temp\bin\Debug\Assembly-CSharp.dll
+D:\SoftUni\GUI-HomeWork\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\SoftUni\GUI-HomeWork\Temp\bin\Debug\UnityEditor.dll
+D:\SoftUni\GUI-HomeWork\Temp\bin\Debug\UnityEngine.dll
+D:\SoftUni\GUI-HomeWork\Temp\bin\Debug\UnityEngine.UI.dll
+D:\SoftUni\GUI-HomeWork\Temp\bin\Debug\Mono.Cecil.dll
+D:\SoftUni\GUI-HomeWork\Temp\bin\Debug\nunit.framework.dll
+D:\SoftUni\GUI-HomeWork\Temp\bin\Debug\Unity.DataContract.dll
+D:\SoftUni\GUI-HomeWork\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\SoftUni\GUI-HomeWork\obj\Debug\Assembly-CSharp.dll
+D:\SoftUni\GUI-HomeWork\obj\Debug\Assembly-CSharp.pdb
